@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Shiye" package="com.sample.shiye" version="1.0.0" company="Company Name" />
+	<app main="Main" path="Export" file="Shiye" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	
+	<assets path="Assets" rename="assets" />
+	
+</project>
